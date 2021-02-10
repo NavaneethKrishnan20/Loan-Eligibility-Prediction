@@ -1,8 +1,8 @@
 # Loan-Eligibility-Prediction
 
-Classifying Loan Eligibility prediction using various clasifier algorithm. This model predicts if a person is eligible for loan based on the information provided.
+## Classifying Loan Eligibility prediction using various clasifier algorithm. This model predicts if a person is eligible for loan based on the information provided.
 
-Steps Involved:
+## Steps Involved:
 
 1. Data Collection
 2. Data Pre-Porcessing ( Handling misssing values, categorical variables )
